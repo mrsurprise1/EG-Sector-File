@@ -195,7 +195,9 @@ F;eg-military\airfield-layouts\EGXC.plf
 F;eg-military\airfield-layouts\EGYD.plf
 F;eg-military\airfield-layouts\EGYM.plf
 
-
+[MVAENR]
+F;eg-nav\00DB.mva
+F;eg-nav\00IC.mva
 
 [PROFILE]
 F;egxx.cpr
