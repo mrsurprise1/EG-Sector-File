@@ -3,3 +3,5 @@
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
 
+//Helipad (stands)
+1;EGLW;N/051.28.10.462;
