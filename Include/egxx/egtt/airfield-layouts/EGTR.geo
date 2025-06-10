@@ -1,3 +1,8 @@
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
 //Stopbar D
 51.6553025;-0.3264182;51.6553122;-0.3263325;STOPBAR;
 //Stopbar C
