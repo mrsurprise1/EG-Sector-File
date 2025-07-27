@@ -30,7 +30,6 @@ GRASSTAXIWAY;#114620;
 RUNWAY;#1E1E1E;
 RUNWAYMARKINGS;#999999;
 TAXIWAY;#4E4E4E;
-BLASTPAD;#FFC800;
 foreignatc;#0C0C0C;
 localatc;#0C0C0C;
 radaratc;#030303;
@@ -196,7 +195,6 @@ F;egtt\airfield-layouts\EGBO.plf
 F;egtt\airfield-layouts\EGKA.plf
 F;egtt\airfield-layouts\EGCC.plf
 F;egpx\airfield-layouts\EGPC.plf
-F;egpx\airfield-layouts\EGPF.plf
 F;egpx\airfield-layouts\EGPR.plf
 F;eg-military\airfield-layouts\EGDM.plf
 F;eg-military\airfield-layouts\EGDY.plf
