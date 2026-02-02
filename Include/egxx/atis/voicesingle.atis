@@ -1,1 +1,1 @@
-[STATION_NAME] Information [ATIS_LETTER], Runway in use, [DEP], Transition Level [TL], [METAR], [REMARK], Report Aircraft type on first contact.
+[STATION_NAME] Information [ATIS_LETTER], Time [ATIS_TIME] Zulu, Runway in use, [DEP], Transition Level [TL], [METAR], [REMARK], Report Aircraft type on first contact.
